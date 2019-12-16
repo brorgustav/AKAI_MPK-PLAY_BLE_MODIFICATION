@@ -16,4 +16,4 @@ TO-DO:
 
 Some parts of code are taken from following libraries and their examples:
  https://github.com/adafruit/Adafruit_BluefruitLE_nRF51
- https://github.com/gdsports/usbh_midi_samd
+https://github.com/gdsports/usbh_midi_samd
