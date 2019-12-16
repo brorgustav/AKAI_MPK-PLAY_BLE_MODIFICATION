@@ -9,6 +9,6 @@ Right now the project is based on a Adafruit feather M0 Bluefruit microcontrolle
 The arduino (Feather M0) acts as a USB-host and converts the USB data and sends it over bluetooth.
 It uses the USB-host SAMD library and the Bluefruit BLE library.
 
-Credits:
+Some parts of code are taken from following libraries and their examples:
  https://github.com/adafruit/Adafruit_BluefruitLE_nRF51
  https://github.com/gdsports/usbh_midi_samd
